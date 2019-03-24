@@ -1,0 +1,2 @@
+# Detection-of-Heart-disease-with-CNN
+Flask app for detection of Heart Disease through CNN. In this app, patients can create their account and can predict their heart disease, and can contact with related doctors through messaging. Doctors can also create their account and check their patients and contact with them through messaging. An admin account is also included in this flask app to maintain the data, update, delete or add data and assign doctors to the patients etc. (Note: It is in it's initial stage. So, you can consider it version~0.1) Enjoy :) 
