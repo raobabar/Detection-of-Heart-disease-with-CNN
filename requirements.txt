@@ -42,5 +42,5 @@ Tempita==0.5.2
 tensorflow>=1.12.1
 tensorflow-tensorboard==0.1.6
 Theano==0.9.0
-Werkzeug==0.11.15
+Werkzeug>=0.15.3
 WTForms==2.1
