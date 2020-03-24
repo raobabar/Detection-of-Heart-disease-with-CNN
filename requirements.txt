@@ -1,6 +1,6 @@
 alembic==0.8.10
 backports.weakref==1.0rc1
-bleach==1.5.0
+bleach==3.1.2
 click==6.7
 decorator==4.0.11
 Flask>=0.12.3
