@@ -16,7 +16,7 @@ html5lib==0.9999999
 itsdangerous==0.24
 Jinja2>=2.9.5
 Keras==2.0.8
-Mako==1.0.6
+Mako==1.2.2
 Markdown==2.6.9
 MarkupSafe==0.23
 mock==2.0.0
